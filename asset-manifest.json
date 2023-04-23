@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "echo $GITHUB_REPOSITORY | sed -r 's/^(.+)//(.+)$/https://///1.github.io///2///'/static/js/main.fe3ca744.js",
-    "index.html": "echo $GITHUB_REPOSITORY | sed -r 's/^(.+)//(.+)$/https://///1.github.io///2///'/index.html",
-    "main.fe3ca744.js.map": "echo $GITHUB_REPOSITORY | sed -r 's/^(.+)//(.+)$/https://///1.github.io///2///'/static/js/main.fe3ca744.js.map"
+    "main.js": "/static/js/main.39ea19cb.js",
+    "index.html": "/index.html",
+    "main.39ea19cb.js.map": "/static/js/main.39ea19cb.js.map"
   },
   "entrypoints": [
-    "static/js/main.fe3ca744.js"
+    "static/js/main.39ea19cb.js"
   ]
 }
