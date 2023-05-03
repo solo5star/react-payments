@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/react-payments/static/js/main.37985cbc.js",
+    "main.js": "/react-payments/static/js/main.d227fbbb.js",
     "static/media/BC카드.png": "/react-payments/static/media/BC카드.ce9784bbe923f3ea2cdf.png",
     "static/media/국민카드.png": "/react-payments/static/media/국민카드.f18b0138697abb75a0ca.png",
     "static/media/신한카드.png": "/react-payments/static/media/신한카드.79c89473e7b36e1a73c6.png",
@@ -12,9 +12,9 @@
     "static/media/helper-icon.svg": "/react-payments/static/media/helper-icon.89797679407d62a60503e9c0f67fd682.svg",
     "index.html": "/react-payments/index.html",
     "static/media/arrow-down.svg": "/react-payments/static/media/arrow-down.750d95a90cd3457c271dc052839b1d51.svg",
-    "main.37985cbc.js.map": "/react-payments/static/js/main.37985cbc.js.map"
+    "main.d227fbbb.js.map": "/react-payments/static/js/main.d227fbbb.js.map"
   },
   "entrypoints": [
-    "static/js/main.37985cbc.js"
+    "static/js/main.d227fbbb.js"
   ]
 }
